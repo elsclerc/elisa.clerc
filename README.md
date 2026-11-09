@@ -35,7 +35,7 @@ nav a:hover{color:var(--orange);text-decoration:underline;text-underline-offset:
 .slot{position:absolute;inset:0;display:grid;place-items:center}
 .slot::before{content:"";width:0;height:0;border-style:solid;border-width:28px 0 28px 46px;border-color:transparent transparent transparent var(--orange);opacity:.9}
 .slot video{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;background:#000}
-.slot video:not([hidden])~*{display:none}
+.slot video:not([Create an 8-second photorealisti 2837 Z7i])~*{display:none}
 
 section{padding:clamp(64px,10vw,130px) var(--pad)}
 h2{color:var(--orange);font-weight:900;font-stretch:80%;font-size:clamp(2.2rem,6vw,4.8rem);line-height:.95;letter-spacing:-.025em;margin-bottom:40px;max-width:16ch}
